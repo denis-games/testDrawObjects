@@ -1,0 +1,2 @@
+/// @description 
+walkSpeed = 2;
