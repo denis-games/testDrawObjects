@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
+    {"id":{"name":"spr_Coin","path":"sprites/spr_Coin/spr_Coin.yy",},"order":3,},
     {"id":{"name":"objEnemyParent","path":"objects/objEnemyParent/objEnemyParent.yy",},"order":2,},
     {"id":{"name":"objAllParent","path":"objects/objAllParent/objAllParent.yy",},"order":6,},
     {"id":{"name":"sprEnemy1","path":"sprites/sprEnemy1/sprEnemy1.yy",},"order":1,},
@@ -52,7 +53,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.5.1.16",
+    "IDEVersion": "2022.6.0.23",
   },
   "resourceVersion": "1.5",
   "name": "testDrawObjects",
